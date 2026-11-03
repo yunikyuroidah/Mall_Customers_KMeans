@@ -1,6 +1,6 @@
 # Segmentasi Pelanggan Mall Menggunakan Algoritma K-Means (Mall Customers Clustering)
 
-> **Catatan:** Proyek ini dibuat sebagai pemenuhan **Tugas / Laporan Praktikum Mata Kuliah Machine Learning / Data Mining** (Topik: *Clustering dengan Algoritma K-Means*).
+> **Catatan:** Proyek ini dibuat sebagai pemenuhan **Tugas / Laporan Praktikum / Data Mining** (Topik: *Clustering dengan Algoritma K-Means*).
 
 ---
 
@@ -106,9 +106,3 @@ Jika ingin menjalankan secara interaktif:
 jupyter notebook kmeans_mall_customers.ipynb
 ```
 
----
-
-## 👤 Pembuat Proyek
-- **Nama / Akun GitHub:** [@yunikyuroidah](https://github.com/yunikyuroidah)
-- **Repositori:** [Mall_Customers_KMeans](https://github.com/yunikyuroidah/Mall_Customers_KMeans)
-- **Topik:** Tugas Praktikum Machine Learning - Segmentasi Pelanggan Menggunakan K-Means
